@@ -1,0 +1,6 @@
+user_id,survey_id,response_1,response_2,response_3
+1,201,"Classic","Yes","Weekly"
+2,202,"Casual","No","Monthly"
+3,203,"Sporty","Yes","Daily"
+4,204,"Elegant","No","Occasionally"
+5,205,"Bohemian","Yes","Weekly"

@@ -1,0 +1,6 @@
+user_id,item_id,purchase_count,item_description,purchase_date
+1,101,2,"Red Dress","2023-01-15"
+2,102,1,"Blue Jeans","2023-02-10"
+3,103,4,"White T-Shirt","2023-03-05"
+4,104,1,"Black Jacket","2023-04-20"
+5,105,3,"Green Skirt","2023-05-12"
